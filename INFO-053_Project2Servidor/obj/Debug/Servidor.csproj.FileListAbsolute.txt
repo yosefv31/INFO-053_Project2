@@ -46,3 +46,19 @@ F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\o
 F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.csproj.Up2Date
 F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.exe
 F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.pdb
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\bin\Debug\Servidor.exe.config
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\bin\Debug\Servidor.exe
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\bin\Debug\Servidor.pdb
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.Presentacion.Frm_Principal.resources
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.Presentacion.Frm_Sockect.resources
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.Presentacion.Frm_Terminal.resources
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.Presentacion.Frm_Viaje.resources
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.csproj.Up2Date
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.exe
+C:\Users\yosef\OneDrive\Documentos\GitHub\INFO-053_Project2\INFO-053_Project2Servidor\obj\Debug\Servidor.pdb

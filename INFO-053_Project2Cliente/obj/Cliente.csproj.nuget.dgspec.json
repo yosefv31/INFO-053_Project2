@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\OneDrive - Universidad Estatal a Distancia\\Visual\\Cliente\\Cliente\\Cliente.csproj": {}
+    "C:\\Users\\yosef\\OneDrive\\Documentos\\GitHub\\INFO-053_Project2\\INFO-053_Project2Cliente\\Cliente.csproj": {}
   },
   "projects": {
-    "F:\\OneDrive - Universidad Estatal a Distancia\\Visual\\Cliente\\Cliente\\Cliente.csproj": {
+    "C:\\Users\\yosef\\OneDrive\\Documentos\\GitHub\\INFO-053_Project2\\INFO-053_Project2Cliente\\Cliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OneDrive - Universidad Estatal a Distancia\\Visual\\Cliente\\Cliente\\Cliente.csproj",
+        "projectUniqueName": "C:\\Users\\yosef\\OneDrive\\Documentos\\GitHub\\INFO-053_Project2\\INFO-053_Project2Cliente\\Cliente.csproj",
         "projectName": "Cliente",
-        "projectPath": "F:\\OneDrive - Universidad Estatal a Distancia\\Visual\\Cliente\\Cliente\\Cliente.csproj",
-        "packagesPath": "C:\\Users\\mcascant.CAJA\\.nuget\\packages\\",
-        "outputPath": "F:\\OneDrive - Universidad Estatal a Distancia\\Visual\\Cliente\\Cliente\\obj\\",
+        "projectPath": "C:\\Users\\yosef\\OneDrive\\Documentos\\GitHub\\INFO-053_Project2\\INFO-053_Project2Cliente\\Cliente.csproj",
+        "packagesPath": "C:\\Users\\yosef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yosef\\OneDrive\\Documentos\\GitHub\\INFO-053_Project2\\INFO-053_Project2Cliente\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mcascant.CAJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yosef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +29,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
+          "net6.0-windows": {
+            "framework": "net6.0-windows7.0",
             "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
@@ -40,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
-        "net6.0-windows7.0": {
+        "net6.0-windows": {
+          "framework": "net6.0-windows7.0",
           "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
@@ -56,24 +62,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -82,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axHTR61b4yQ=",
+  "dgSpecHash": "7YFYxDzbBd0=",
   "success": true,
-  "projectFilePath": "F:\\OneDrive - Universidad Estatal a Distancia\\Visual\\Cliente\\Cliente\\Cliente.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\mcascant.CAJA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\mcascant.CAJA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\mcascant.CAJA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\mcascant.CAJA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\yosef\\OneDrive\\Documentos\\GitHub\\INFO-053_Project2\\INFO-053_Project2Cliente\\Cliente.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
