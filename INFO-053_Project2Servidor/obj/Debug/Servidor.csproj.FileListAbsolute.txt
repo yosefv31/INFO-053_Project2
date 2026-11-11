@@ -1,0 +1,48 @@
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.Principal.resources
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\bin\Debug\Servidor.exe.config
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\bin\Debug\Servidor.exe
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\bin\Debug\Servidor.pdb
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.exe
+D:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.pdb
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\bin\Debug\Servidor.exe.config
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\bin\Debug\Servidor.exe
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\bin\Debug\Servidor.pdb
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.Principal.resources
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.exe
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor\obj\Debug\Servidor.pdb
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\bin\Debug\Servidor.exe.config
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\bin\Debug\Servidor.exe
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\bin\Debug\Servidor.pdb
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.Frm_Principal.resources
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.Presentacion.Frm_Viaje.resources
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.exe
+F:\OneDrive - Universidad Estatal a Distancia\Archivos de chat de Microsoft Teams\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.pdb
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\bin\Debug\Servidor.exe.config
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\bin\Debug\Servidor.exe
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\bin\Debug\Servidor.pdb
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\bin\Debug\Newtonsoft.Json.xml
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.Presentacion.Frm_Principal.resources
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.Presentacion.Frm_Sockect.resources
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.Presentacion.Frm_Terminal.resources
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.Presentacion.Frm_Viaje.resources
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.csproj.Up2Date
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.exe
+F:\OneDrive - Universidad Estatal a Distancia\Visual\Server\Servidor2\Servidor\obj\Debug\Servidor.pdb
